@@ -1,0 +1,8 @@
+Logout button
+if click - popup the warning window with 2 ywo buttons^
+button1: yes
+button2: cancel
+
+the end
+
+

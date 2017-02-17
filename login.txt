@@ -1,0 +1,14 @@
+Login Page: very attractive view
+label: user name
+Label: password
+confirm button: yes, cancel
+
+add languages buttons
+eng, bg, ukr
+
+the end
+
+
+
+
+
